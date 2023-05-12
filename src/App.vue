@@ -45,7 +45,7 @@
           {
             id: 3,
             name: 'Denon DP 450 Angle',
-            image: '/assets/img/DenonAngle.png'
+            image: '/mathias-wagestrand/assets/img/DenonAngle.png'
           },
           { id: 5, name: 'Swap', image: '/assets/img/Swap.png' }
           // Add more projects here
