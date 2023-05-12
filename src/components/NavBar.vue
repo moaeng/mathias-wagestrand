@@ -22,9 +22,8 @@
       <span class="navbar-toggle-icon"></span>
     </button>
     <ul :class="['navbar-menu', menuActive ? 'navbar-menu-active' : '']">
-      <li><a href="#">About</a></li>
-      <li><a href="#">Projects</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><router-link to="/about">About</router-link></li>
+      <li><router-link to="/contact">Contact</router-link></li>
     </ul>
   </nav>
 </template>
@@ -83,6 +82,7 @@
   /* desktop styles */
   @media screen and (min-width: 768px) {
     .navbar {
+      margin-bottom: 15px;
       justify-content: flex-start;
       .navbar-toggle {
         display: none;
@@ -114,6 +114,7 @@
     display: flex !important;
     flex-direction: column;
     align-items: center;
+    z-index: 4;
   }
 
   .navbar-toggle.active .navbar-toggle-icon {
