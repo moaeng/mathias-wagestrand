@@ -22,10 +22,10 @@
           {
             id: 1,
             projectName: 'Naturally',
-            imageUrl: '/mathias-wagestrand/img/NaturallyPackagingV.2.png',
-            imageUrl2: '/mathias-wagestrand/assets/img/NaturallyLamp.png',
-            imageUrl3: '/mathias-wagestrand/assets/img/NaturallyInterior.png',
-            imageUrl4: '/mathias-wagestrand/assets/img/NaturallyDesk.png',
+            imageUrl: '/img/NaturallyPackagingV.2.png',
+            imageUrl2: '/assets/img/NaturallyLamp.png',
+            imageUrl3: '/assets/img/NaturallyInterior.png',
+            imageUrl4: '/assets/img/NaturallyDesk.png',
             description: 'Modelled in Blender and Autodesk Fusion 360. '
           },
           {
@@ -37,17 +37,17 @@
           {
             id: 3,
             projectName: 'Denon DP 450',
-            imageUrl: '/mathias-wagestrand/assets/img/DenonAngle.png',
-            imageUrl2: '/mathias-wagestrand/assets/img/DenonSide.png',
-            imageUrl3: '/mathias-wagestrand/assets/img/DenonBack.png',
-            imageUrl4: '/mathias-wagestrand/assets/img/DenonTop.png',
+            imageUrl: '/assets/img/DenonAngle.png',
+            imageUrl2: '/assets/img/DenonSide.png',
+            imageUrl3: '/assets/img/DenonBack.png',
+            imageUrl4: '/assets/img/DenonTop.png',
             description: ''
           },
           {
             id: 5,
             projectName: 'Swap',
-            imageUrl: '/mathias-wagestrand/assets/img/Swap.png',
-            videoUrl: '/mathias-wagestrand/assets/img/YindiaoHD.mp4',
+            imageUrl: '/assets/img/Swap.png',
+            videoUrl: '/assets/img/YindiaoHD.mp4',
             description: 'Multifunctional Camera & Clock'
           }
         ],
