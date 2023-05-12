@@ -22,32 +22,32 @@
           {
             id: 1,
             projectName: 'Naturally',
-            imageUrl: '/img/NaturallyPackagingV.2.png',
-            imageUrl2: '/assets/img/NaturallyLamp.png',
-            imageUrl3: '/assets/img/NaturallyInterior.png',
-            imageUrl4: '/assets/img/NaturallyDesk.png',
+            imageUrl: '../assets/img/NaturallyPackagingV.2.png',
+            imageUrl2: '../assets/img/NaturallyLamp.png',
+            imageUrl3: '../assets/img/NaturallyInterior.png',
+            imageUrl4: '../assets/img/NaturallyDesk.png',
             description: 'Modelled in Blender and Autodesk Fusion 360. '
           },
           {
             id: 4,
             projectName: 'Orange Blitz',
-            imageUrl: '/assets/img/OrangeBlitz.png',
+            imageUrl: '../assets/img/OrangeBlitz.png',
             description: ''
           },
           {
             id: 3,
             projectName: 'Denon DP 450',
-            imageUrl: '/assets/img/DenonAngle.png',
-            imageUrl2: '/assets/img/DenonSide.png',
-            imageUrl3: '/assets/img/DenonBack.png',
-            imageUrl4: '/assets/img/DenonTop.png',
+            imageUrl: '../assets/img/DenonAngle.png',
+            imageUrl2: '../assets/img/DenonSide.png',
+            imageUrl3: '../assets/img/DenonBack.png',
+            imageUrl4: '../assets/img/DenonTop.png',
             description: ''
           },
           {
             id: 5,
             projectName: 'Swap',
-            imageUrl: '/assets/img/Swap.png',
-            videoUrl: '/assets/img/YindiaoHD.mp4',
+            imageUrl: '../assets/img/Swap.png',
+            videoUrl: '../assets/img/YindiaoHD.mp4',
             description: 'Multifunctional Camera & Clock'
           }
         ],
