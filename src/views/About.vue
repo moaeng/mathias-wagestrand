@@ -12,7 +12,7 @@
   export default {
     data() {
       return {
-        imageUrl: '../assets/img/mathias.jpg',
+        imageUrl: '/mathias-wagestrand/assets/img/mathias.jpg',
         description:
           "My name is Mathias and I'm a passionate 3D designer based in Gothenburg. As a student at Yrgo I am constantly seeking to expand my skill set and exploring new creative avenues within the field of 3D design. I have strong attention to detail and deep appreciation for the artistry involved in creating my own 3D models and designs. I'm currently seeking internship opportunities to further develop my skills and gain some industry experience.",
         cvUrl: '/assets/img/mathias-wagestrand-resume.pdf'
