@@ -15,37 +15,37 @@
     data() {
       return {
         showPlayButton: true,
-        videoUrl: './assets/img/Showreel.mp4',
+        videoUrl: '/assets/img/Showreel.mp4',
         projects: [
           {
             id: 1,
             name: 'Naturally Lamp',
-            image: 'assets/img/NaturallyLamp.png'
+            image: '/assets/img/NaturallyLamp.png'
           },
           {
             id: 1,
             name: 'Naturally Desk',
-            image: 'assets/img/NaturallyDesk.png'
+            image: '/assets/img/NaturallyDesk.png'
           },
           {
             id: 3,
             name: 'Denon DP 450 Back',
-            image: 'assets/img/DenonBack.png'
+            image: '/assets/img/DenonBack.png'
           },
           {
             id: 1,
             name: 'Naturally Packaging',
-            image: 'assets/img/NaturallyPackagingV.2.png'
+            image: '/assets/img/NaturallyPackagingV.2.png'
           },
           {
             id: 4,
             name: 'Orange Blitz',
-            image: 'assets/img/OrangeBlitz.png'
+            image: '/assets/img/OrangeBlitz.png'
           },
           {
             id: 3,
             name: 'Denon DP 450 Angle',
-            image: 'assets/img/DenonAngle.png'
+            image: '/assets/img/DenonAngle.png'
           },
           { id: 5, name: 'Swap', image: '/assets/img/Swap.png' }
           // Add more projects here
@@ -102,10 +102,7 @@
       </div>
     </div>
     <div class="copy">
-      <span
-        ><i class="fa-regular fa-copyright"></i> 2023 Moa Englander, all rights
-        reserved.</span
-      >
+      <span>2023 Moa Englander, all rights reserved.</span>
     </div>
   </footer>
 </template>

@@ -31,7 +31,7 @@
           {
             id: 4,
             projectName: 'Orange Blitz',
-            imageUrl: '/mathias-wagestrand/assets/img/OrangeBlitz.png',
+            imageUrl: '/assets/img/OrangeBlitz.png',
             description: ''
           },
           {
