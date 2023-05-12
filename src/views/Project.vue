@@ -22,8 +22,8 @@
           {
             id: 1,
             projectName: 'Naturally',
-            imageUrl: '../assets/img/NaturallyPackagingV.2.png',
-            imageUrl2: '../assets/img/NaturallyLamp.png',
+            imageUrl: 'https://moaeng.github.io/mathias-wagestrand/naturallypackagingv.2.png',
+            imageUrl2: '../assets/img/naturallylamp.png',
             imageUrl3: '../assets/img/NaturallyInterior.png',
             imageUrl4: '../assets/img/NaturallyDesk.png',
             description: 'Modelled in Blender and Autodesk Fusion 360. '
